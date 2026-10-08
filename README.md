@@ -11,13 +11,22 @@ people who would rather own it outright. No ads. No data collection.
 
 ---
 
+### Tools for Claude
+
+Free MCP servers that put Claude to work in our apps. The full index is at
+**[opticell-mcp](https://github.com/TeamDzX/opticell-mcp)**.
+
+| | |
+|---|---|
+| **[workflow-companion](https://github.com/TeamDzX/workflow-companion)** | Claude on Windows or Linux works in your WorkFlow tasks and notes through your own iCloud. In the [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.TeamDzX/workflow-companion). |
+| **[workflow-agent-bridge](https://github.com/TeamDzX/workflow-agent-bridge)** | The Mac route into WorkFlow: a CLI and an MCP server that read and write tasks, file hand-offs and keep a session log. MIT. |
+
 ### Open tools
 
 | | |
 |---|---|
 | **[myllm-connect](https://github.com/TeamDzX/myllm-connect)** | Run your own private AI backend on Mac or PC and connect MyLLM in one tap over trusted HTTPS. Rust. |
 | **[myllm-skills](https://github.com/TeamDzX/myllm-skills)** | Curated open Agent-Skill format skills for MyLLM, the on-device iOS AI agent. |
-| **[workflow-agent-bridge](https://github.com/TeamDzX/workflow-agent-bridge)** | Agent bridge and MCP server for the WorkFlow task manager — lets a coding agent read and write tasks, file hand-offs and keep a session log. |
 
 ### Live app content
 
